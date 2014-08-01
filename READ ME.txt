@@ -1,0 +1,31 @@
+How to run the program?
+
+1.Open the command prompt
+2.Navigate to the folder where the python file is placed
+3.type python BlackJack.py
+
+About the Game:
+
+Initially you will be given 100 credit values to play with.
+
+1. The program starts off asking you to enter the number of credits you like to bet,the value will be stored
+
+2. The User and Dealer cards will be generated (one of the dealer card will be folded)
+
+3. The User can select either one of the option Hit,Stand,DoubleDown and Split(Depending on the User cards)
+
+4. User can select Hit till they are satisfied with their cards
+
+5. If Stand is choosen,depending on the value on User and Dealer cards the winner is declared
+
+6. The remaining Credit score will be calculated and displayed
+
+7. If user wants to still play,he can type 'yes' and play the game till all his credits ends
+
+
+References:
+
+http://www.games.com/play/masque-publishing/blackjack/single
+
+Used this website as a model,this python game was implemented .(Rules were followed as per the game website)
+

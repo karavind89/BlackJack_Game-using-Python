@@ -1,0 +1,5 @@
+I want to suggest the user whether he can hit or deal the cards by the old data and risks he takes in every move
+
+http://stackoverflow.com/questions/13758279/i-want-my-dealer-to-be-bit-more-intelligent-when-choosing-when-to-draw-a-card?rq=1
+
+http://wizardofodds.com/play/blackjack/
